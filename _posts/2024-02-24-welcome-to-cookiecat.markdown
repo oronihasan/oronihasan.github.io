@@ -6,4 +6,4 @@ categories: update
 ---
 This is my first article. And this is me!
 
-![image tooltip 2](assets/images/IMG_0701.JPG)
+![image tooltip 2](/assets/IMG_0701.JPG)
