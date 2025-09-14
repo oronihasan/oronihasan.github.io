@@ -3,3 +3,24 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# OS
+*.DS_Store
+*Thumbs.db
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# VSCode
+.vscode/
+
+# Misc
+*.local
+*.swp
+.idea/
+
+# Build output
+/build
+/dist
