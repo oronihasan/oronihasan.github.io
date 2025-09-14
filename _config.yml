@@ -22,10 +22,9 @@ title: CookieCat
 email: mail2oroni@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hello, I'm Oroni Hasan, known as Chhuti. Originally from
-  Bangladesh, I now reside in Sweden. I attend Fäladsskolan
-  and I'm currently in the fourth grade. My favorite color
-  is purple, and I enjoy hobbies such as crafting and drawing.
-  I'm also delving into coding.
+  Bangladesh, I now reside in Sweden. I attend Internationella
+  Engelska Skolan, Lund and I'm currently in the sixth grade.
+  My favorite color is purple.
 domain: oronihasan.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
