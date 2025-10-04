@@ -26,8 +26,10 @@ For a second I hesitated the logical part of me asking ‘Should we really be do
 
 Once my eyes stopped burning from the abnormal light and I could see again I discovered that I was no longer in camp. I had teleported(I had always wanted to try that but I didn't think it would be this painful). At least I got my arms back though. I looked around but everything was misty so I couldn't see much. I was able to distinguish a stone that looked like an oval in the ground.
 
+```txt
    - 'Wait' I said aloud 'to no one'.
    - ‘This is a tombstone. That means…’ I said again to no one, realizing that I was in a graveyard. Alone. Yay!
+```
 
 Now I'm not scared of graveyards (I think it’s just a peaceful place where dead human peoples can rest and can have nothing to worry about except how bacteria and bugs are eating their dead bodies. This is just what i think though) but it was what stood on one particular gravestone that scared me.
 
@@ -43,25 +45,33 @@ I fell for what felt like hours and hours(it actually felt like 67.41 seconds bu
 
 After I leaped out of the heap of bodies and almost threw up I noticed I was not alone. There was another girl just about 6.7 meters away from me. I walked closer to see her. She looked like a pretty average girly girl. She had blond hair and gray eyes and tons of makeup. She was wearing a pink tank-top and a matching pink skirt but they were pretty dirty and smelled like sweat and rotten flesh.
 
+```txt
  - ‘Wh-where am I?’ I asked, very frightened.
  - ‘W-who are you?’ I added.
  - ‘AND WHAT IS GOING ON WITH THE DEAD BODIES!?!?!?’ I screamed pretty loud, my voice echoing so I could tell we were in a pretty big area.
+```
 
 A few seconds after I asked, the girl dropped unconscious. I would like to say I heroically caught her and saved her life but well… I did however check if she was breathing which she luckily was. Before I could do anything else she gasped and stood up again but her neck was bent in an unnatural angle. She tried to adjust her head trying to make it look normal then - CRACK!- Her head popped clean off her body splattering what looked like milk - no not milk - it was white blood.
 
+```txt
  - ‘Wh-what a-are you?’ I asked, taking a step backwards,(mostly to myself because how could a decapitated head answer any questions?) my voice quivering.
+```
 
 Then I heroically tripped on a decapitated and rotting arm, falling back into the heap of dead and rotting bodies. I tried to get back up but several arms and hair strands pulled me back into the pile again.
 Her, sorry its’ eyes on its’ decapitated head was slowly tuning whiter and whiter and now as bright as a light bulb
 
+```txt
  - ‘I…’ it announced without moving her mouth on her decapitated head.
  - ‘AM STEVEE’ it declared quite loudly (and this time moving its’ mouth) in Jack Black's voice.
+```
 
 Then it started singing "Chicken Lava” from “A NineCrap movie” (without moving its’ mouth), then I suddenly became a literal chicken then was cooked alive immediately by lava falling down on me and the pile of not so dead bodies, so I BECAME the chicken lava. It was not fun.
 
 I jolted awake, heart pounding after hearing an eerie laughter off in the distance. I froze for a second, but then quickly realized I was safely tucked inside my sleeping bag. Most importantly my friends were also in the tent this time … at least I thought so, it was hard to see with the Swedish morning darkness. I reached for my glasses and turned on my phone flashlight to double-check. Yep. They were all there. Still breathing. Still human peoples.
 
+```txt
  - ‘Guys, I had the scariest nightmare ever!’ I exclaimed while putting on my glasses, then told them about my nightmare while they were exchanging glances at each other.
  - ‘Weird, just before you woke up we were discussing how we all had that exact nightmare.’ replied Emily in an unexpectedly chill tone.
+```
 
 THE END… maybe?
