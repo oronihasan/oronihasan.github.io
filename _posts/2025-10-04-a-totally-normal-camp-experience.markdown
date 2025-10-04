@@ -33,7 +33,13 @@ The gravestone read in big bold letters was my name, “Oroni Hasan, 13/09/2013 
 
 A second later it started storming, like in every other scary story. The rain was cold. I could feel every drop of water splash against me, the wind was annoyingly cold and strong, pushing me backwards. Now I could also hear thunder (I couldn't see the lighting because I couldn't open my eyes for it was too windy).
 
-Suddenly I felt my back against something solid, but fluffy? Slowly I turned around (honestly it was much easier than I thought it would be, because the wind forcing me to look that way anyways). What I saw made my jaw drop. Towering in front of me was a ginormous and fluffy castel painted in bright pink and almost glowing-white(which very much hurt my eyes to look at).Somehow I went from a horror story to a fairy tail. I had and have no idea what a castel might be doing next to a graveyard but I was just glad to see shelter (bonus that the shelter was not a haunted mansion). I quickly found the entrance because it was four times my size, glowing and golden. Above the entrance stood something written in (international) morse code (Not to toot my own horn but I am totally excellent at morse code). It read: . . _ _ _    . _ _ _ _   _ _ _ _ .   _ . . . . , which translates to 2194. Just then a keypad lock appeared beside the entrance of the castel.
+Suddenly I felt my back against something solid, but fluffy? Slowly I turned around (honestly it was much easier than I thought it would be, because the wind forcing me to look that way anyways). What I saw made my jaw drop. Towering in front of me was a ginormous and fluffy castel painted in bright pink and almost glowing-white(which very much hurt my eyes to look at).Somehow I went from a horror story to a fairy tail. I had and have no idea what a castel might be doing next to a graveyard but I was just glad to see shelter (bonus that the shelter was not a haunted mansion). I quickly found the entrance because it was four times my size, glowing and golden. Above the entrance stood something written in (international) morse code (Not to toot my own horn but I am totally excellent at morse code). It read:
+
+```txt
+. . _ _ _    . _ _ _ _   _ _ _ _ .   _ . . . .
+```
+
+Which translates to 2194. Just then a keypad lock appeared beside the entrance of the castel.
 
 I typed in the code and immediately the floor beneath me opened and I fell. A bit too late I realized the code was 2196 not 2194!
 
